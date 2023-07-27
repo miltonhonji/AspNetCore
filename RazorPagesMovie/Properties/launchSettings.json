@@ -1,18 +1,27 @@
-﻿{
+{
   "iisSettings": {
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:54010",
-      "sslPort": 44378
+      "applicationUrl": "http://localhost:4810",
+      "sslPort": 44361
     }
   },
   "profiles": {
-    "RazorPagesMovie": {
+    "http": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:7174;http://localhost:5199",
+      "applicationUrl": "http://localhost:5128",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "https": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "https://localhost:7194;http://localhost:5128",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
