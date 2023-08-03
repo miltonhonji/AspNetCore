@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DevMilton\\AspNetCore\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "c:\\DevMilton\\AspNetCore\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "C:\\DevMilton\\AspNetCore\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "c:\\DevMilton\\AspNetCore\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DevMilton\\AspNetCore\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "c:\\DevMilton\\AspNetCore\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "C:\\DevMilton\\AspNetCore\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectPath": "c:\\DevMilton\\AspNetCore\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "packagesPath": "C:\\Users\\facto\\.nuget\\packages\\",
-        "outputPath": "C:\\DevMilton\\AspNetCore\\RazorPagesMovie\\obj\\",
+        "outputPath": "c:\\DevMilton\\AspNetCore\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
